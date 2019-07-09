@@ -1,0 +1,27 @@
+.img-container {
+    background: #fff;
+    border-radius: 2px;
+    height: 315px;
+    margin: 1rem;
+    position: relative;
+    width: 315px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+  .img-container:hover {
+    background-color: red;
+  }
+  
+   .img-container {
+    height: 60%;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+  }
+  
+  img{
+    height: 300px;
+    width: 300px;
+  
+  }
+  

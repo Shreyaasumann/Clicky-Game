@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Stan Smith",
+      "image":
+        "../public/images/Stan_Smith.png",
+      "occupation": "CIA Worker",
+      "location": "Washington DC"
+    },
+    {
+      "id": 2,
+      "name": "Francine Smith",
+      "image":
+        "../public/images/Stan_Smith.jpg",
+      "occupation": "Housewife and Marine biologist",
+      "location": "Washiongton DC"
+    },
+    {
+      "id": 3,
+      "name": "Hayley Smith",
+      "image":
+        "../public/images/Hayley_Smith.jpg",
+      "occupation": "Student at a Community College",
+      "location": "Washington DC"
+    },
+    {
+      "id": 4,
+      "name": "Steve Smith",
+      "image":
+        "../public/images/Steve_Smith.jpg",
+      "occupation": "Middle School Student",
+      "location": "Washington DC"
+    },
+    {
+      "id": 5,
+      "name": "Roger Smith",
+      "image":
+        "../public/images/Roger_Smith.jpg",
+      "occupation": "Alien",
+      "location": "Washington DC"
+    },
+    {
+      "id": 6,
+      "name": "Klaus",
+      "image":
+        "../public/images/k.jpg",
+      "occupation": "East German Olympic ski-jumper or Gold Fish",
+      "location": "Washington DC"
+    },
+    {
+      "id": 7,
+      "name": "Jeff Fisher",
+      "image":
+        "../public/images/jef.jpg",
+      "occupation": "Hippie",
+      "location": "Wahington DC"
+    }
+  ]
